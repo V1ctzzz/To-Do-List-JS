@@ -22,5 +22,5 @@ Projeto simples de **lista de tarefas (To-Do List)** construído com **HTML, CSS
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone (https://github.com/V1ctzzz/To-Do-List-JS)
 
